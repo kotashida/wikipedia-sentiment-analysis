@@ -1,0 +1,811 @@
+Article_Title,Language,Mean_Sentiment_Score,Median_Sentiment_Score,Standard_Deviation
+Joe Biden,en,0.371,0.346,0.104
+Joe Biden,pl,0.345,0.311,0.090
+Joe Biden,it,0.346,0.328,0.087
+Joe Biden,hu,0.357,0.321,0.112
+Joe Biden,de,0.382,0.349,0.119
+Joe Biden,nl,0.339,0.329,0.066
+Joe Biden,el,0.327,0.313,0.064
+Joe Biden,sv,0.333,0.319,0.072
+Joe Biden,ko,0.289,0.276,0.041
+Joe Biden,th,0.305,0.280,0.068
+Joe Biden,tl,0.288,0.275,0.048
+Joe Biden,ja,0.324,0.312,0.062
+Joe Biden,si,0.360,0.319,0.117
+Joe Biden,bn,0.326,0.309,0.065
+Joe Biden,hi,0.305,0.304,0.048
+Joe Biden,ms,0.345,0.329,0.088
+Joe Biden,he,0.337,0.334,0.062
+Joe Biden,tr,0.341,0.320,0.080
+Donald Trump,en,0.459,0.445,0.149
+Donald Trump,pl,0.379,0.354,0.114
+Donald Trump,it,0.381,0.350,0.125
+Donald Trump,hu,0.430,0.407,0.135
+Donald Trump,de,0.418,0.394,0.131
+Donald Trump,nl,0.453,0.439,0.130
+Donald Trump,el,0.341,0.314,0.108
+Donald Trump,sv,0.356,0.333,0.111
+Donald Trump,ko,0.348,0.343,0.072
+Donald Trump,th,0.311,0.288,0.074
+Donald Trump,tl,0.362,0.381,0.061
+Donald Trump,ja,0.355,0.330,0.096
+Donald Trump,si,0.391,0.387,0.080
+Donald Trump,bn,0.346,0.327,0.083
+Donald Trump,hi,0.345,0.324,0.080
+Donald Trump,ms,0.341,0.314,0.088
+Donald Trump,he,0.367,0.342,0.101
+Donald Trump,tr,0.418,0.393,0.137
+Barack Obama,en,0.354,0.319,0.101
+Barack Obama,pl,0.338,0.317,0.095
+Barack Obama,it,0.344,0.327,0.087
+Barack Obama,hu,0.320,0.306,0.060
+Barack Obama,de,0.369,0.338,0.117
+Barack Obama,nl,0.329,0.305,0.072
+Barack Obama,el,0.326,0.307,0.078
+Barack Obama,sv,0.316,0.296,0.084
+Barack Obama,ko,0.327,0.320,0.057
+Barack Obama,th,0.309,0.283,0.090
+Barack Obama,tl,0.291,0.269,0.059
+Barack Obama,ja,0.327,0.314,0.056
+Barack Obama,si,0.417,0.417,0.080
+Barack Obama,bn,0.316,0.306,0.060
+Barack Obama,hi,0.327,0.300,0.057
+Barack Obama,ms,0.327,0.319,0.073
+Barack Obama,he,0.330,0.318,0.061
+Barack Obama,tr,0.329,0.294,0.085
+George W. Bush,en,0.373,0.347,0.103
+George W. Bush,pl,0.365,0.345,0.097
+George W. Bush,it,0.342,0.326,0.089
+George W. Bush,hu,0.365,0.317,0.149
+George W. Bush,de,0.356,0.351,0.081
+George W. Bush,nl,0.361,0.335,0.107
+George W. Bush,el,0.300,0.292,0.035
+George W. Bush,sv,0.340,0.329,0.075
+George W. Bush,ko,0.338,0.323,0.048
+George W. Bush,th,0.311,0.296,0.065
+George W. Bush,tl,0.327,0.340,0.033
+George W. Bush,ja,0.342,0.307,0.096
+George W. Bush,si,0.429,0.429,0.000
+George W. Bush,bn,0.333,0.319,0.075
+George W. Bush,hi,0.336,0.336,0.065
+George W. Bush,ms,0.354,0.338,0.082
+George W. Bush,he,0.340,0.323,0.072
+George W. Bush,tr,0.371,0.339,0.108
+Bill Clinton,en,0.361,0.342,0.094
+Bill Clinton,pl,0.317,0.304,0.061
+Bill Clinton,it,0.345,0.324,0.086
+Bill Clinton,hu,0.296,0.289,0.030
+Bill Clinton,de,0.333,0.323,0.067
+Bill Clinton,nl,0.369,0.348,0.094
+Bill Clinton,el,0.315,0.287,0.066
+Bill Clinton,sv,0.302,0.306,0.031
+Bill Clinton,ko,0.342,0.346,0.045
+Bill Clinton,th,0.269,0.267,0.031
+Bill Clinton,tl,0.298,0.298,0.000
+Bill Clinton,ja,0.348,0.346,0.086
+Bill Clinton,si,0.362,0.351,0.035
+Bill Clinton,bn,0.330,0.329,0.033
+Bill Clinton,hi,0.314,0.314,0.031
+Bill Clinton,ms,0.352,0.337,0.066
+Bill Clinton,he,0.337,0.326,0.071
+Bill Clinton,tr,0.363,0.315,0.123
+George H. W. Bush,en,0.344,0.326,0.080
+George H. W. Bush,pl,0.323,0.307,0.068
+George H. W. Bush,it,0.319,0.302,0.079
+George H. W. Bush,hu,0.322,0.318,0.057
+George H. W. Bush,de,0.329,0.307,0.076
+George H. W. Bush,nl,0.342,0.326,0.087
+George H. W. Bush,el,0.314,0.298,0.084
+George H. W. Bush,sv,0.306,0.296,0.054
+George H. W. Bush,ko,0.342,0.336,0.069
+George H. W. Bush,th,0.268,0.268,0.034
+George H. W. Bush,tl,0.273,0.273,0.000
+George H. W. Bush,ja,0.329,0.313,0.062
+George H. W. Bush,si,0.383,0.383,0.046
+George H. W. Bush,bn,0.347,0.341,0.049
+George H. W. Bush,hi,0.313,0.313,0.041
+George H. W. Bush,ms,0.315,0.277,0.082
+George H. W. Bush,he,0.335,0.328,0.058
+George H. W. Bush,tr,0.317,0.290,0.077
+Ronald Reagan,en,0.345,0.331,0.075
+Ronald Reagan,pl,0.334,0.324,0.078
+Ronald Reagan,it,0.349,0.342,0.081
+Ronald Reagan,hu,0.326,0.316,0.062
+Ronald Reagan,de,0.350,0.333,0.104
+Ronald Reagan,nl,0.355,0.323,0.111
+Ronald Reagan,el,0.302,0.307,0.037
+Ronald Reagan,sv,0.337,0.337,0.067
+Ronald Reagan,ko,0.306,0.309,0.041
+Ronald Reagan,th,0.255,0.257,0.007
+Ronald Reagan,tl,0.333,0.339,0.028
+Ronald Reagan,ja,0.318,0.298,0.064
+Ronald Reagan,si,0.334,0.324,0.060
+Ronald Reagan,bn,0.342,0.350,0.021
+Ronald Reagan,hi,0.301,0.301,0.000
+Ronald Reagan,ms,0.359,0.333,0.090
+Ronald Reagan,he,0.335,0.332,0.056
+Ronald Reagan,tr,0.338,0.300,0.090
+Jimmy Carter,en,0.343,0.317,0.085
+Jimmy Carter,pl,0.340,0.319,0.072
+Jimmy Carter,it,0.359,0.336,0.091
+Jimmy Carter,hu,0.316,0.301,0.061
+Jimmy Carter,de,0.346,0.329,0.077
+Jimmy Carter,nl,0.325,0.301,0.081
+Jimmy Carter,el,0.326,0.309,0.074
+Jimmy Carter,sv,0.323,0.310,0.063
+Jimmy Carter,ko,0.327,0.329,0.054
+Jimmy Carter,th,0.307,0.290,0.070
+Jimmy Carter,tl,0.242,0.242,0.000
+Jimmy Carter,ja,0.312,0.296,0.056
+Jimmy Carter,si,0.488,0.488,0.005
+Jimmy Carter,bn,0.346,0.327,0.071
+Jimmy Carter,hi,0.302,0.304,0.051
+Jimmy Carter,ms,0.347,0.340,0.067
+Jimmy Carter,he,0.330,0.321,0.061
+Jimmy Carter,tr,0.325,0.317,0.086
+Gerald Ford,en,0.356,0.355,0.091
+Gerald Ford,pl,0.359,0.303,0.111
+Gerald Ford,it,0.325,0.339,0.063
+Gerald Ford,hu,0.371,0.341,0.092
+Gerald Ford,de,0.332,0.321,0.071
+Gerald Ford,nl,0.295,0.271,0.068
+Gerald Ford,el,0.297,0.286,0.048
+Gerald Ford,sv,0.328,0.340,0.051
+Gerald Ford,ko,0.318,0.314,0.049
+Gerald Ford,th,0.277,0.261,0.042
+Gerald Ford,tl,0.296,0.296,0.056
+Gerald Ford,ja,0.338,0.341,0.050
+Gerald Ford,si,0.477,0.477,0.000
+Gerald Ford,bn,0.308,0.294,0.064
+Gerald Ford,hi,0.290,0.290,0.000
+Gerald Ford,ms,0.306,0.294,0.048
+Gerald Ford,he,0.321,0.312,0.053
+Gerald Ford,tr,0.321,0.303,0.050
+Richard Nixon,en,0.345,0.325,0.090
+Richard Nixon,pl,0.335,0.312,0.080
+Richard Nixon,it,0.351,0.323,0.091
+Richard Nixon,hu,0.329,0.329,0.065
+Richard Nixon,de,0.330,0.308,0.077
+Richard Nixon,nl,0.323,0.297,0.098
+Richard Nixon,el,0.317,0.321,0.058
+Richard Nixon,sv,0.316,0.309,0.053
+Richard Nixon,ko,0.299,0.280,0.052
+Richard Nixon,th,0.291,0.271,0.063
+Richard Nixon,tl,0.295,0.292,0.027
+Richard Nixon,ja,0.334,0.311,0.068
+Richard Nixon,si,NA,NA,NA
+Richard Nixon,bn,0.328,0.320,0.052
+Richard Nixon,hi,0.291,0.291,0.000
+Richard Nixon,ms,0.348,0.310,0.094
+Richard Nixon,he,0.335,0.321,0.061
+Richard Nixon,tr,0.347,0.316,0.088
+Lyndon B. Johnson,en,0.354,0.341,0.092
+Lyndon B. Johnson,pl,0.336,0.306,0.104
+Lyndon B. Johnson,it,0.356,0.339,0.086
+Lyndon B. Johnson,hu,0.315,0.314,0.048
+Lyndon B. Johnson,de,0.338,0.324,0.074
+Lyndon B. Johnson,nl,0.297,0.298,0.055
+Lyndon B. Johnson,el,0.352,0.291,0.139
+Lyndon B. Johnson,sv,0.314,0.310,0.048
+Lyndon B. Johnson,ko,0.325,0.330,0.051
+Lyndon B. Johnson,th,0.279,0.245,0.064
+Lyndon B. Johnson,tl,0.296,0.296,0.056
+Lyndon B. Johnson,ja,0.328,0.326,0.060
+Lyndon B. Johnson,si,NA,NA,NA
+Lyndon B. Johnson,bn,0.359,0.340,0.068
+Lyndon B. Johnson,hi,0.253,0.253,0.008
+Lyndon B. Johnson,ms,0.299,0.269,0.065
+Lyndon B. Johnson,he,0.332,0.329,0.055
+Lyndon B. Johnson,tr,0.304,0.306,0.038
+John F. Kennedy,en,0.341,0.329,0.075
+John F. Kennedy,pl,0.332,0.319,0.087
+John F. Kennedy,it,0.365,0.348,0.087
+John F. Kennedy,hu,0.329,0.313,0.074
+John F. Kennedy,de,0.331,0.318,0.065
+John F. Kennedy,nl,0.333,0.300,0.099
+John F. Kennedy,el,0.337,0.332,0.063
+John F. Kennedy,sv,0.295,0.278,0.056
+John F. Kennedy,ko,0.306,0.288,0.052
+John F. Kennedy,th,0.305,0.283,0.087
+John F. Kennedy,tl,0.335,0.321,0.059
+John F. Kennedy,ja,0.331,0.321,0.065
+John F. Kennedy,si,0.334,0.334,0.020
+John F. Kennedy,bn,0.326,0.311,0.062
+John F. Kennedy,hi,0.319,0.297,0.052
+John F. Kennedy,ms,0.329,0.294,0.140
+John F. Kennedy,he,0.339,0.329,0.067
+John F. Kennedy,tr,0.307,0.295,0.066
+Dwight D. Eisenhower,en,0.353,0.330,0.089
+Dwight D. Eisenhower,pl,0.342,0.311,0.104
+Dwight D. Eisenhower,it,0.344,0.339,0.052
+Dwight D. Eisenhower,hu,0.306,0.296,0.032
+Dwight D. Eisenhower,de,0.340,0.323,0.079
+Dwight D. Eisenhower,nl,0.307,0.296,0.074
+Dwight D. Eisenhower,el,0.358,0.340,0.076
+Dwight D. Eisenhower,sv,0.307,0.308,0.034
+Dwight D. Eisenhower,ko,0.323,0.321,0.069
+Dwight D. Eisenhower,th,0.262,0.267,0.017
+Dwight D. Eisenhower,tl,0.309,0.303,0.017
+Dwight D. Eisenhower,ja,0.315,0.309,0.051
+Dwight D. Eisenhower,si,0.485,0.485,0.000
+Dwight D. Eisenhower,bn,0.276,0.276,0.030
+Dwight D. Eisenhower,hi,0.294,0.298,0.017
+Dwight D. Eisenhower,ms,0.319,0.300,0.116
+Dwight D. Eisenhower,he,0.324,0.318,0.052
+Dwight D. Eisenhower,tr,0.311,0.289,0.067
+Harry S. Truman,en,0.343,0.329,0.090
+Harry S. Truman,pl,0.314,0.299,0.076
+Harry S. Truman,it,0.316,0.315,0.055
+Harry S. Truman,hu,0.350,0.336,0.091
+Harry S. Truman,de,0.331,0.315,0.072
+Harry S. Truman,nl,0.318,0.290,0.079
+Harry S. Truman,el,0.364,0.338,0.089
+Harry S. Truman,sv,0.331,0.320,0.072
+Harry S. Truman,ko,0.322,0.304,0.054
+Harry S. Truman,th,0.283,0.253,0.055
+Harry S. Truman,tl,0.343,0.343,0.009
+Harry S. Truman,ja,0.313,0.298,0.054
+Harry S. Truman,si,0.485,0.485,0.000
+Harry S. Truman,bn,0.342,0.341,0.027
+Harry S. Truman,hi,0.321,0.308,0.061
+Harry S. Truman,ms,0.379,0.368,0.114
+Harry S. Truman,he,0.328,0.313,0.070
+Harry S. Truman,tr,0.357,0.341,0.119
+Franklin D. Roosevelt,en,0.342,0.324,0.085
+Franklin D. Roosevelt,pl,0.340,0.315,0.080
+Franklin D. Roosevelt,it,0.349,0.324,0.088
+Franklin D. Roosevelt,hu,0.320,0.305,0.076
+Franklin D. Roosevelt,de,0.349,0.324,0.091
+Franklin D. Roosevelt,nl,0.321,0.306,0.061
+Franklin D. Roosevelt,el,0.311,0.291,0.051
+Franklin D. Roosevelt,sv,0.349,0.324,0.126
+Franklin D. Roosevelt,ko,0.324,0.316,0.055
+Franklin D. Roosevelt,th,0.300,0.269,0.086
+Franklin D. Roosevelt,tl,0.294,0.256,0.062
+Franklin D. Roosevelt,ja,0.317,0.315,0.047
+Franklin D. Roosevelt,si,0.307,0.304,0.009
+Franklin D. Roosevelt,bn,0.346,0.335,0.052
+Franklin D. Roosevelt,hi,0.330,0.313,0.058
+Franklin D. Roosevelt,ms,0.326,0.324,0.089
+Franklin D. Roosevelt,he,0.344,0.327,0.078
+Franklin D. Roosevelt,tr,0.329,0.316,0.074
+Herbert Hoover,en,0.352,0.336,0.077
+Herbert Hoover,pl,0.349,0.332,0.099
+Herbert Hoover,it,0.304,0.301,0.034
+Herbert Hoover,hu,0.338,0.344,0.056
+Herbert Hoover,de,0.359,0.341,0.108
+Herbert Hoover,nl,0.356,0.321,0.097
+Herbert Hoover,el,0.312,0.304,0.043
+Herbert Hoover,sv,0.289,0.282,0.026
+Herbert Hoover,ko,0.345,0.333,0.088
+Herbert Hoover,th,0.252,0.246,0.019
+Herbert Hoover,tl,0.296,0.296,0.056
+Herbert Hoover,ja,0.314,0.303,0.047
+Herbert Hoover,si,0.477,0.477,0.000
+Herbert Hoover,bn,0.293,0.267,0.056
+Herbert Hoover,hi,0.279,0.279,0.000
+Herbert Hoover,ms,0.294,0.294,0.031
+Herbert Hoover,he,0.344,0.327,0.078
+Herbert Hoover,tr,0.343,0.301,0.078
+Calvin Coolidge,en,0.343,0.324,0.086
+Calvin Coolidge,pl,0.306,0.308,0.045
+Calvin Coolidge,it,0.304,0.281,0.069
+Calvin Coolidge,hu,0.348,0.280,0.152
+Calvin Coolidge,de,0.330,0.314,0.068
+Calvin Coolidge,nl,0.295,0.279,0.050
+Calvin Coolidge,el,0.350,0.316,0.098
+Calvin Coolidge,sv,0.327,0.301,0.073
+Calvin Coolidge,ko,0.309,0.306,0.043
+Calvin Coolidge,th,0.291,0.273,0.047
+Calvin Coolidge,tl,0.296,0.296,0.056
+Calvin Coolidge,ja,0.302,0.287,0.044
+Calvin Coolidge,si,0.477,0.477,0.000
+Calvin Coolidge,bn,0.332,0.332,0.047
+Calvin Coolidge,hi,0.285,0.285,0.000
+Calvin Coolidge,ms,0.327,0.328,0.065
+Calvin Coolidge,he,0.335,0.321,0.063
+Calvin Coolidge,tr,0.317,0.317,0.006
+Warren G. Harding,en,0.347,0.319,0.095
+Warren G. Harding,pl,0.300,0.304,0.039
+Warren G. Harding,it,0.317,0.319,0.050
+Warren G. Harding,hu,0.338,0.306,0.111
+Warren G. Harding,de,0.331,0.306,0.079
+Warren G. Harding,nl,0.308,0.271,0.096
+Warren G. Harding,el,0.323,0.306,0.046
+Warren G. Harding,sv,0.298,0.304,0.048
+Warren G. Harding,ko,0.299,0.304,0.036
+Warren G. Harding,th,0.268,0.268,0.000
+Warren G. Harding,tl,0.296,0.296,0.056
+Warren G. Harding,ja,0.344,0.355,0.076
+Warren G. Harding,si,0.485,0.485,0.000
+Warren G. Harding,bn,0.308,0.308,0.032
+Warren G. Harding,hi,0.255,0.255,0.000
+Warren G. Harding,ms,0.244,0.244,0.000
+Warren G. Harding,he,0.338,0.330,0.062
+Warren G. Harding,tr,0.236,0.236,0.000
+Woodrow Wilson,en,0.345,0.334,0.078
+Woodrow Wilson,pl,0.315,0.299,0.066
+Woodrow Wilson,it,0.359,0.337,0.100
+Woodrow Wilson,hu,0.352,0.277,0.150
+Woodrow Wilson,de,0.334,0.311,0.087
+Woodrow Wilson,nl,0.324,0.311,0.066
+Woodrow Wilson,el,0.340,0.311,0.078
+Woodrow Wilson,sv,0.301,0.292,0.047
+Woodrow Wilson,ko,0.334,0.336,0.048
+Woodrow Wilson,th,0.281,0.257,0.047
+Woodrow Wilson,tl,0.327,0.327,0.010
+Woodrow Wilson,ja,0.354,0.344,0.062
+Woodrow Wilson,si,0.477,0.479,0.078
+Woodrow Wilson,bn,0.354,0.326,0.055
+Woodrow Wilson,hi,0.340,0.318,0.075
+Woodrow Wilson,ms,0.283,0.282,0.031
+Woodrow Wilson,he,0.336,0.323,0.059
+Woodrow Wilson,tr,0.318,0.308,0.055
+William Howard Taft,en,0.342,0.329,0.080
+William Howard Taft,pl,0.309,0.300,0.060
+William Howard Taft,it,0.336,0.315,0.065
+William Howard Taft,hu,0.305,0.296,0.058
+William Howard Taft,de,0.345,0.314,0.118
+William Howard Taft,nl,0.360,0.331,0.099
+William Howard Taft,el,0.245,0.245,0.002
+William Howard Taft,sv,0.336,0.322,0.060
+William Howard Taft,ko,0.319,0.292,0.071
+William Howard Taft,th,0.278,0.298,0.040
+William Howard Taft,tl,0.266,0.266,0.016
+William Howard Taft,ja,0.330,0.347,0.036
+William Howard Taft,si,0.493,0.493,0.000
+William Howard Taft,bn,0.316,0.301,0.030
+William Howard Taft,hi,0.270,0.270,0.000
+William Howard Taft,ms,0.283,0.283,0.000
+William Howard Taft,he,0.350,0.333,0.060
+William Howard Taft,tr,0.258,0.266,0.035
+Theodore Roosevelt,en,0.363,0.334,0.111
+Theodore Roosevelt,pl,0.338,0.323,0.081
+Theodore Roosevelt,it,0.343,0.346,0.071
+Theodore Roosevelt,hu,0.319,0.300,0.063
+Theodore Roosevelt,de,0.346,0.319,0.086
+Theodore Roosevelt,nl,0.299,0.266,0.073
+Theodore Roosevelt,el,0.300,0.304,0.040
+Theodore Roosevelt,sv,0.318,0.307,0.062
+Theodore Roosevelt,ko,0.315,0.305,0.053
+Theodore Roosevelt,th,0.285,0.245,0.080
+Theodore Roosevelt,tl,0.272,0.272,0.010
+Theodore Roosevelt,ja,0.337,0.327,0.060
+Theodore Roosevelt,si,0.477,0.477,0.000
+Theodore Roosevelt,bn,0.342,0.351,0.075
+Theodore Roosevelt,hi,0.293,0.293,0.000
+Theodore Roosevelt,ms,0.326,0.328,0.054
+Theodore Roosevelt,he,0.335,0.327,0.066
+Theodore Roosevelt,tr,0.281,0.277,0.053
+William McKinley,en,0.333,0.314,0.074
+William McKinley,pl,0.303,0.276,0.067
+William McKinley,it,0.339,0.308,0.093
+William McKinley,hu,0.351,0.346,0.079
+William McKinley,de,0.334,0.320,0.077
+William McKinley,nl,0.341,0.340,0.095
+William McKinley,el,0.326,0.312,0.044
+William McKinley,sv,0.388,0.266,0.221
+William McKinley,ko,0.325,0.303,0.053
+William McKinley,th,0.286,0.240,0.066
+William McKinley,tl,0.297,0.290,0.018
+William McKinley,ja,0.337,0.331,0.046
+William McKinley,si,0.477,0.477,0.000
+William McKinley,bn,0.253,0.253,0.000
+William McKinley,hi,0.290,0.290,0.000
+William McKinley,ms,0.344,0.324,0.063
+William McKinley,he,0.345,0.329,0.073
+William McKinley,tr,0.285,0.258,0.055
+Grover Cleveland,en,0.353,0.344,0.087
+Grover Cleveland,pl,0.345,0.320,0.078
+Grover Cleveland,it,0.354,0.343,0.071
+Grover Cleveland,hu,0.329,0.344,0.048
+Grover Cleveland,de,0.334,0.315,0.070
+Grover Cleveland,nl,0.347,0.338,0.081
+Grover Cleveland,el,0.340,0.332,0.063
+Grover Cleveland,sv,0.303,0.288,0.058
+Grover Cleveland,ko,0.292,0.279,0.046
+Grover Cleveland,th,0.244,0.244,0.011
+Grover Cleveland,tl,0.296,0.296,0.056
+Grover Cleveland,ja,0.332,0.320,0.037
+Grover Cleveland,si,0.477,0.477,0.000
+Grover Cleveland,bn,0.345,0.325,0.059
+Grover Cleveland,hi,0.298,0.298,0.000
+Grover Cleveland,ms,0.416,0.396,0.068
+Grover Cleveland,he,0.331,0.319,0.055
+Grover Cleveland,tr,0.294,0.294,0.042
+Benjamin Harrison,en,0.352,0.338,0.085
+Benjamin Harrison,pl,0.334,0.328,0.057
+Benjamin Harrison,it,0.326,0.325,0.070
+Benjamin Harrison,hu,0.344,0.327,0.089
+Benjamin Harrison,de,0.334,0.329,0.068
+Benjamin Harrison,nl,0.310,0.312,0.045
+Benjamin Harrison,el,0.350,0.346,0.088
+Benjamin Harrison,sv,0.296,0.298,0.032
+Benjamin Harrison,ko,0.295,0.294,0.044
+Benjamin Harrison,th,0.283,0.276,0.033
+Benjamin Harrison,tl,0.296,0.296,0.056
+Benjamin Harrison,ja,0.312,0.312,0.032
+Benjamin Harrison,si,0.477,0.477,0.000
+Benjamin Harrison,bn,0.334,0.323,0.020
+Benjamin Harrison,hi,0.285,0.285,0.000
+Benjamin Harrison,ms,0.322,0.298,0.067
+Benjamin Harrison,he,0.327,0.326,0.050
+Benjamin Harrison,tr,0.266,0.266,0.000
+Chester A. Arthur,en,0.340,0.333,0.067
+Chester A. Arthur,pl,0.324,0.318,0.062
+Chester A. Arthur,it,0.371,0.366,0.058
+Chester A. Arthur,hu,0.284,0.286,0.037
+Chester A. Arthur,de,0.355,0.339,0.082
+Chester A. Arthur,nl,0.353,0.385,0.073
+Chester A. Arthur,el,0.290,0.298,0.018
+Chester A. Arthur,sv,0.314,0.314,0.001
+Chester A. Arthur,ko,0.342,0.335,0.067
+Chester A. Arthur,th,0.305,0.305,0.000
+Chester A. Arthur,tl,0.296,0.296,0.056
+Chester A. Arthur,ja,0.345,0.342,0.038
+Chester A. Arthur,si,0.485,0.485,0.000
+Chester A. Arthur,bn,0.322,0.322,0.000
+Chester A. Arthur,hi,0.244,0.244,0.000
+Chester A. Arthur,ms,0.389,0.343,0.083
+Chester A. Arthur,he,0.353,0.337,0.071
+Chester A. Arthur,tr,0.273,0.273,0.000
+James A. Garfield,en,0.358,0.347,0.084
+James A. Garfield,pl,0.330,0.316,0.051
+James A. Garfield,it,0.318,0.322,0.049
+James A. Garfield,hu,0.324,0.308,0.091
+James A. Garfield,de,0.351,0.343,0.068
+James A. Garfield,nl,0.280,0.303,0.038
+James A. Garfield,el,0.323,0.323,0.044
+James A. Garfield,sv,0.344,0.346,0.056
+James A. Garfield,ko,0.363,0.341,0.083
+James A. Garfield,th,0.311,0.287,0.041
+James A. Garfield,tl,0.315,0.324,0.039
+James A. Garfield,ja,0.317,0.312,0.053
+James A. Garfield,si,0.485,0.485,0.000
+James A. Garfield,bn,0.270,0.273,0.014
+James A. Garfield,hi,0.359,0.359,0.000
+James A. Garfield,ms,0.342,0.323,0.056
+James A. Garfield,he,0.338,0.320,0.076
+James A. Garfield,tr,0.270,0.270,0.000
+Rutherford B. Hayes,en,0.345,0.334,0.071
+Rutherford B. Hayes,pl,0.329,0.311,0.052
+Rutherford B. Hayes,it,0.326,0.317,0.061
+Rutherford B. Hayes,hu,0.316,0.316,0.009
+Rutherford B. Hayes,de,0.348,0.327,0.075
+Rutherford B. Hayes,nl,0.299,0.267,0.070
+Rutherford B. Hayes,el,0.323,0.323,0.004
+Rutherford B. Hayes,sv,0.297,0.278,0.037
+Rutherford B. Hayes,ko,0.293,0.277,0.032
+Rutherford B. Hayes,th,0.273,0.273,0.022
+Rutherford B. Hayes,tl,0.296,0.296,0.056
+Rutherford B. Hayes,ja,0.345,0.345,0.064
+Rutherford B. Hayes,si,NA,NA,NA
+Rutherford B. Hayes,bn,0.272,0.272,0.042
+Rutherford B. Hayes,hi,0.279,0.279,0.000
+Rutherford B. Hayes,ms,0.311,0.306,0.055
+Rutherford B. Hayes,he,0.332,0.328,0.047
+Rutherford B. Hayes,tr,0.272,0.272,0.000
+Ulysses S. Grant,en,0.357,0.338,0.098
+Ulysses S. Grant,pl,0.338,0.320,0.072
+Ulysses S. Grant,it,0.348,0.332,0.068
+Ulysses S. Grant,hu,0.325,0.320,0.058
+Ulysses S. Grant,de,0.355,0.333,0.076
+Ulysses S. Grant,nl,0.349,0.320,0.112
+Ulysses S. Grant,el,0.297,0.293,0.063
+Ulysses S. Grant,sv,0.293,0.313,0.030
+Ulysses S. Grant,ko,0.348,0.338,0.068
+Ulysses S. Grant,th,0.244,0.244,0.001
+Ulysses S. Grant,tl,0.296,0.296,0.056
+Ulysses S. Grant,ja,0.340,0.348,0.058
+Ulysses S. Grant,si,0.485,0.485,0.000
+Ulysses S. Grant,bn,0.326,0.326,0.024
+Ulysses S. Grant,hi,0.281,0.281,0.000
+Ulysses S. Grant,ms,0.340,0.342,0.056
+Ulysses S. Grant,he,0.335,0.327,0.062
+Ulysses S. Grant,tr,0.313,0.311,0.029
+Andrew Johnson,en,0.341,0.320,0.085
+Andrew Johnson,pl,0.337,0.316,0.080
+Andrew Johnson,it,0.323,0.313,0.048
+Andrew Johnson,hu,0.313,0.304,0.039
+Andrew Johnson,de,0.340,0.334,0.070
+Andrew Johnson,nl,0.480,0.414,0.198
+Andrew Johnson,el,0.309,0.266,0.071
+Andrew Johnson,sv,0.301,0.280,0.043
+Andrew Johnson,ko,0.293,0.291,0.036
+Andrew Johnson,th,0.379,0.257,0.179
+Andrew Johnson,tl,0.296,0.296,0.056
+Andrew Johnson,ja,0.323,0.296,0.058
+Andrew Johnson,si,0.427,0.421,0.041
+Andrew Johnson,bn,0.343,0.312,0.070
+Andrew Johnson,hi,0.288,0.288,0.004
+Andrew Johnson,ms,0.340,0.298,0.107
+Andrew Johnson,he,0.330,0.327,0.050
+Andrew Johnson,tr,0.324,0.326,0.008
+Abraham Lincoln,en,0.345,0.325,0.082
+Abraham Lincoln,pl,0.332,0.329,0.054
+Abraham Lincoln,it,0.345,0.331,0.077
+Abraham Lincoln,hu,0.340,0.308,0.099
+Abraham Lincoln,de,0.338,0.326,0.075
+Abraham Lincoln,nl,0.333,0.327,0.067
+Abraham Lincoln,el,0.349,0.338,0.076
+Abraham Lincoln,sv,0.309,0.300,0.056
+Abraham Lincoln,ko,0.336,0.341,0.062
+Abraham Lincoln,th,0.279,0.255,0.061
+Abraham Lincoln,tl,0.307,0.304,0.045
+Abraham Lincoln,ja,0.327,0.326,0.054
+Abraham Lincoln,si,0.419,0.423,0.048
+Abraham Lincoln,bn,0.332,0.324,0.055
+Abraham Lincoln,hi,0.261,0.261,0.014
+Abraham Lincoln,ms,0.344,0.331,0.075
+Abraham Lincoln,he,0.319,0.317,0.043
+Abraham Lincoln,tr,0.322,0.296,0.085
+James Buchanan,en,0.351,0.341,0.086
+James Buchanan,pl,0.354,0.332,0.094
+James Buchanan,it,0.324,0.300,0.073
+James Buchanan,hu,0.282,0.284,0.030
+James Buchanan,de,0.343,0.329,0.071
+James Buchanan,nl,0.328,0.302,0.077
+James Buchanan,el,0.351,0.329,0.075
+James Buchanan,sv,0.321,0.302,0.033
+James Buchanan,ko,0.297,0.289,0.037
+James Buchanan,th,0.337,0.236,0.181
+James Buchanan,tl,0.296,0.296,0.056
+James Buchanan,ja,0.342,0.344,0.046
+James Buchanan,si,0.477,0.477,0.000
+James Buchanan,bn,0.331,0.352,0.044
+James Buchanan,hi,0.267,0.267,0.000
+James Buchanan,ms,0.351,0.344,0.064
+James Buchanan,he,0.331,0.321,0.052
+James Buchanan,tr,0.344,0.344,0.000
+Franklin Pierce,en,0.365,0.340,0.091
+Franklin Pierce,pl,0.324,0.319,0.051
+Franklin Pierce,it,0.315,0.298,0.061
+Franklin Pierce,hu,0.290,0.290,0.016
+Franklin Pierce,de,0.343,0.330,0.083
+Franklin Pierce,nl,0.391,0.394,0.085
+Franklin Pierce,el,0.267,0.267,0.025
+Franklin Pierce,sv,0.334,0.327,0.069
+Franklin Pierce,ko,0.339,0.292,0.133
+Franklin Pierce,th,0.310,0.310,0.000
+Franklin Pierce,tl,0.317,0.294,0.037
+Franklin Pierce,ja,0.334,0.330,0.044
+Franklin Pierce,si,NA,NA,NA
+Franklin Pierce,bn,0.359,0.358,0.033
+Franklin Pierce,hi,0.351,0.351,0.000
+Franklin Pierce,ms,0.371,0.356,0.072
+Franklin Pierce,he,0.334,0.331,0.050
+Franklin Pierce,tr,0.317,0.284,0.078
+Millard Fillmore,en,0.344,0.325,0.075
+Millard Fillmore,pl,0.324,0.324,0.047
+Millard Fillmore,it,0.340,0.345,0.035
+Millard Fillmore,hu,0.301,0.285,0.057
+Millard Fillmore,de,0.340,0.325,0.070
+Millard Fillmore,nl,0.332,0.303,0.096
+Millard Fillmore,el,0.320,0.323,0.037
+Millard Fillmore,sv,0.329,0.304,0.067
+Millard Fillmore,ko,0.324,0.308,0.055
+Millard Fillmore,th,0.389,0.379,0.127
+Millard Fillmore,tl,0.296,0.296,0.056
+Millard Fillmore,ja,0.337,0.324,0.054
+Millard Fillmore,si,NA,NA,NA
+Millard Fillmore,bn,0.333,0.333,0.026
+Millard Fillmore,hi,0.298,0.298,0.000
+Millard Fillmore,ms,0.328,0.309,0.060
+Millard Fillmore,he,0.331,0.333,0.049
+Millard Fillmore,tr,0.277,0.277,0.000
+Zachary Taylor,en,0.360,0.357,0.071
+Zachary Taylor,pl,0.333,0.303,0.107
+Zachary Taylor,it,0.358,0.358,0.075
+Zachary Taylor,hu,0.311,0.305,0.055
+Zachary Taylor,de,0.343,0.331,0.067
+Zachary Taylor,nl,0.371,0.364,0.069
+Zachary Taylor,el,0.245,0.245,0.030
+Zachary Taylor,sv,0.340,0.340,0.072
+Zachary Taylor,ko,0.333,0.319,0.040
+Zachary Taylor,th,0.231,0.231,0.000
+Zachary Taylor,tl,0.296,0.296,0.056
+Zachary Taylor,ja,0.329,0.332,0.050
+Zachary Taylor,si,NA,NA,NA
+Zachary Taylor,bn,0.438,0.438,0.109
+Zachary Taylor,hi,0.274,0.274,0.000
+Zachary Taylor,ms,0.335,0.315,0.066
+Zachary Taylor,he,0.341,0.328,0.092
+Zachary Taylor,tr,0.249,0.249,0.000
+James K. Polk,en,0.343,0.327,0.074
+James K. Polk,pl,0.307,0.295,0.056
+James K. Polk,it,0.329,0.311,0.061
+James K. Polk,hu,0.333,0.318,0.068
+James K. Polk,de,0.329,0.316,0.065
+James K. Polk,nl,0.326,0.305,0.075
+James K. Polk,el,0.362,0.354,0.031
+James K. Polk,sv,0.311,0.322,0.039
+James K. Polk,ko,0.349,0.346,0.057
+James K. Polk,th,0.276,0.276,0.011
+James K. Polk,tl,0.283,0.284,0.034
+James K. Polk,ja,0.341,0.336,0.051
+James K. Polk,si,NA,NA,NA
+James K. Polk,bn,0.280,0.280,0.033
+James K. Polk,hi,0.275,0.275,0.000
+James K. Polk,ms,0.350,0.358,0.046
+James K. Polk,he,0.337,0.321,0.064
+James K. Polk,tr,0.283,0.252,0.059
+John Tyler,en,0.345,0.330,0.075
+John Tyler,pl,0.310,0.303,0.057
+John Tyler,it,0.290,0.281,0.035
+John Tyler,hu,0.326,0.320,0.062
+John Tyler,de,0.315,0.309,0.056
+John Tyler,nl,0.351,0.333,0.087
+John Tyler,el,0.258,0.261,0.015
+John Tyler,sv,0.299,0.297,0.010
+John Tyler,ko,0.321,0.302,0.078
+John Tyler,th,0.241,0.245,0.009
+John Tyler,tl,0.320,0.320,0.000
+John Tyler,ja,0.319,0.303,0.055
+John Tyler,si,NA,NA,NA
+John Tyler,bn,0.376,0.393,0.058
+John Tyler,hi,0.278,0.278,0.000
+John Tyler,ms,0.330,0.306,0.069
+John Tyler,he,0.342,0.334,0.055
+John Tyler,tr,0.256,0.256,0.000
+William Henry Harrison,en,0.351,0.339,0.084
+William Henry Harrison,pl,0.304,0.314,0.039
+William Henry Harrison,it,0.348,0.319,0.106
+William Henry Harrison,hu,0.300,0.293,0.044
+William Henry Harrison,de,0.337,0.329,0.066
+William Henry Harrison,nl,0.392,0.337,0.168
+William Henry Harrison,el,0.252,0.252,0.044
+William Henry Harrison,sv,0.328,0.331,0.031
+William Henry Harrison,ko,0.296,0.286,0.039
+William Henry Harrison,th,0.338,0.338,0.075
+William Henry Harrison,tl,0.296,0.296,0.056
+William Henry Harrison,ja,0.301,0.293,0.033
+William Henry Harrison,si,NA,NA,NA
+William Henry Harrison,bn,0.276,0.279,0.036
+William Henry Harrison,hi,0.286,0.286,0.000
+William Henry Harrison,ms,0.394,0.396,0.095
+William Henry Harrison,he,0.314,0.313,0.050
+William Henry Harrison,tr,0.306,0.311,0.017
+Martin Van Buren,en,0.338,0.326,0.068
+Martin Van Buren,pl,0.341,0.322,0.072
+Martin Van Buren,it,0.351,0.314,0.084
+Martin Van Buren,hu,0.298,0.294,0.053
+Martin Van Buren,de,0.351,0.336,0.072
+Martin Van Buren,nl,0.336,0.339,0.052
+Martin Van Buren,el,0.266,0.260,0.028
+Martin Van Buren,sv,0.297,0.289,0.024
+Martin Van Buren,ko,0.307,0.303,0.057
+Martin Van Buren,th,0.231,0.231,0.007
+Martin Van Buren,tl,0.296,0.296,0.056
+Martin Van Buren,ja,0.320,0.298,0.057
+Martin Van Buren,si,NA,NA,NA
+Martin Van Buren,bn,0.312,0.313,0.010
+Martin Van Buren,hi,0.296,0.296,0.000
+Martin Van Buren,ms,0.376,0.321,0.114
+Martin Van Buren,he,0.352,0.347,0.066
+Martin Van Buren,tr,0.313,0.303,0.038
+Andrew Jackson,en,0.347,0.333,0.077
+Andrew Jackson,pl,0.343,0.332,0.085
+Andrew Jackson,it,0.329,0.319,0.064
+Andrew Jackson,hu,0.285,0.282,0.037
+Andrew Jackson,de,0.343,0.323,0.081
+Andrew Jackson,nl,0.323,0.305,0.069
+Andrew Jackson,el,0.277,0.277,0.047
+Andrew Jackson,sv,0.295,0.293,0.040
+Andrew Jackson,ko,0.303,0.306,0.036
+Andrew Jackson,th,0.284,0.251,0.065
+Andrew Jackson,tl,0.308,0.299,0.023
+Andrew Jackson,ja,0.329,0.316,0.054
+Andrew Jackson,si,NA,NA,NA
+Andrew Jackson,bn,0.330,0.334,0.040
+Andrew Jackson,hi,0.304,0.304,0.003
+Andrew Jackson,ms,0.335,0.311,0.071
+Andrew Jackson,he,0.338,0.324,0.069
+Andrew Jackson,tr,0.338,0.323,0.068
+John Quincy Adams,en,0.333,0.324,0.065
+John Quincy Adams,pl,0.308,0.303,0.044
+John Quincy Adams,it,0.308,0.305,0.039
+John Quincy Adams,hu,0.372,0.335,0.104
+John Quincy Adams,de,0.324,0.320,0.049
+John Quincy Adams,nl,0.339,0.332,0.059
+John Quincy Adams,el,0.321,0.315,0.053
+John Quincy Adams,sv,0.324,0.306,0.051
+John Quincy Adams,ko,0.337,0.329,0.042
+John Quincy Adams,th,0.246,0.246,0.000
+John Quincy Adams,tl,0.296,0.296,0.056
+John Quincy Adams,ja,0.305,0.295,0.039
+John Quincy Adams,si,0.430,0.430,0.000
+John Quincy Adams,bn,0.322,0.322,0.009
+John Quincy Adams,hi,0.284,0.284,0.000
+John Quincy Adams,ms,0.308,0.283,0.061
+John Quincy Adams,he,0.323,0.306,0.069
+John Quincy Adams,tr,0.332,0.313,0.061
+James Monroe,en,0.345,0.327,0.082
+James Monroe,pl,0.304,0.304,0.041
+James Monroe,it,0.304,0.302,0.035
+James Monroe,hu,0.285,0.274,0.047
+James Monroe,de,0.343,0.329,0.068
+James Monroe,nl,0.326,0.322,0.062
+James Monroe,el,0.481,0.316,0.253
+James Monroe,sv,0.303,0.292,0.033
+James Monroe,ko,0.321,0.336,0.040
+James Monroe,th,0.304,0.297,0.049
+James Monroe,tl,0.296,0.296,0.056
+James Monroe,ja,0.300,0.304,0.045
+James Monroe,si,NA,NA,NA
+James Monroe,bn,0.365,0.360,0.055
+James Monroe,hi,0.286,0.286,0.000
+James Monroe,ms,0.310,0.327,0.050
+James Monroe,he,0.329,0.320,0.055
+James Monroe,tr,0.319,0.313,0.054
+James Madison,en,0.334,0.324,0.068
+James Madison,pl,0.301,0.303,0.029
+James Madison,it,0.310,0.298,0.043
+James Madison,hu,0.302,0.293,0.038
+James Madison,de,0.347,0.330,0.083
+James Madison,nl,0.328,0.327,0.055
+James Madison,el,0.325,0.310,0.049
+James Madison,sv,0.332,0.309,0.065
+James Madison,ko,0.304,0.307,0.047
+James Madison,th,0.253,0.253,0.000
+James Madison,tl,0.296,0.296,0.056
+James Madison,ja,0.316,0.306,0.054
+James Madison,si,0.329,0.329,0.039
+James Madison,bn,0.351,0.331,0.049
+James Madison,hi,0.287,0.266,0.039
+James Madison,ms,0.304,0.302,0.027
+James Madison,he,0.332,0.316,0.059
+James Madison,tr,0.317,0.310,0.060
+Thomas Jefferson,en,0.361,0.341,0.088
+Thomas Jefferson,pl,0.323,0.299,0.082
+Thomas Jefferson,it,0.341,0.330,0.074
+Thomas Jefferson,hu,0.308,0.305,0.044
+Thomas Jefferson,de,0.339,0.327,0.063
+Thomas Jefferson,nl,0.320,0.309,0.061
+Thomas Jefferson,el,0.355,0.355,0.078
+Thomas Jefferson,sv,0.335,0.333,0.042
+Thomas Jefferson,ko,0.332,0.318,0.063
+Thomas Jefferson,th,0.290,0.276,0.040
+Thomas Jefferson,tl,0.296,0.296,0.056
+Thomas Jefferson,ja,0.340,0.333,0.071
+Thomas Jefferson,si,0.336,0.309,0.079
+Thomas Jefferson,bn,0.318,0.305,0.040
+Thomas Jefferson,hi,0.309,0.294,0.029
+Thomas Jefferson,ms,0.314,0.288,0.060
+Thomas Jefferson,he,0.333,0.322,0.070
+Thomas Jefferson,tr,0.322,0.305,0.070
+John Adams,en,0.358,0.339,0.089
+John Adams,pl,0.332,0.320,0.046
+John Adams,it,0.318,0.306,0.065
+John Adams,hu,0.315,0.292,0.059
+John Adams,de,0.344,0.330,0.077
+John Adams,nl,0.344,0.319,0.077
+John Adams,el,0.357,0.357,0.014
+John Adams,sv,0.327,0.332,0.046
+John Adams,ko,0.311,0.292,0.067
+John Adams,th,0.295,0.274,0.075
+John Adams,tl,0.321,0.330,0.037
+John Adams,ja,0.334,0.312,0.071
+John Adams,si,0.402,0.401,0.070
+John Adams,bn,0.299,0.299,0.000
+John Adams,hi,0.398,0.387,0.053
+John Adams,ms,0.344,0.340,0.085
+John Adams,he,0.341,0.323,0.077
+John Adams,tr,0.339,0.315,0.107
+George Washington,en,0.343,0.330,0.078
+George Washington,pl,0.333,0.330,0.053
+George Washington,it,0.342,0.331,0.067
+George Washington,hu,0.339,0.319,0.084
+George Washington,de,0.343,0.328,0.080
+George Washington,nl,0.313,0.302,0.063
+George Washington,el,0.327,0.315,0.075
+George Washington,sv,0.320,0.309,0.054
+George Washington,ko,0.328,0.327,0.041
+George Washington,th,0.305,0.286,0.069
+George Washington,tl,0.355,0.349,0.048
+George Washington,ja,0.307,0.301,0.045
+George Washington,si,0.401,0.401,0.078
+George Washington,bn,0.333,0.326,0.056
+George Washington,hi,0.357,0.358,0.045
+George Washington,ms,0.316,0.303,0.072
+George Washington,he,0.329,0.314,0.057
+George Washington,tr,0.317,0.294,0.075
